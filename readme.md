@@ -1,4 +1,4 @@
-# Senior FE Exam API
+# BLOG SPA API
 
 ## Installation
 1. Run `npm install`
